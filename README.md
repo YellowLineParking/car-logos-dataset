@@ -1,6 +1,6 @@
 # Car Logos Dataset
 
-This [repository](https://github.com/filippofilip95/car-logos-dataset) contains image collection of **383 car manufacturers logos**.
+This ORIGINAL [repository](https://github.com/filippofilip95/car-logos-dataset) contains image collection of **383 car manufacturers logos**.
 
 Each logo has three size variations (original, optimized, thumbnail).
 
@@ -28,9 +28,9 @@ This file contains description of each logo with few properties.
     "slug": "volkswagen",
     "image": {
       "source": "https://www.carlogos.org/logo/Volkswagen-logo-2019-640x500.jpg",
-      "thumb": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/thumb/volkswagen.png",
-      "optimized": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/volkswagen.png",
-      "original": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/original/volkswagen.jpg",
+      "thumb": "https://raw.githubusercontent.com/YellowLineParking/car-logos-dataset/master/logos/thumb/volkswagen.png",
+      "optimized": "https://raw.githubusercontent.com/YellowLineParking/car-logos-dataset/master/logos/optimized/volkswagen.png",
+      "original": "https://raw.githubusercontent.com/YellowLineParking/car-logos-dataset/master/logos/original/volkswagen.jpg",
       "localThumb": "./thumb/volkswagen.png",
       "localOptimized": "./optimized/volkswagen.png",
       "localOriginal": "./original/volkswagen.jpg"
